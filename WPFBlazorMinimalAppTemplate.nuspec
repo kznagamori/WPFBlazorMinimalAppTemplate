@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>kznagamori.WPFBlazorMinApp</id>
+    <version>1.0.0</version>
+    <authors>kznanamori</authors>
+    <owners>kznanamori</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WPF Blazor Minimal App</description>
+    <tags>WPF, Blazor, desktop</tags>
+  </metadata>
+  <files>
+    <file src="**" target="content" />
+  </files>
+</package>
