@@ -16,7 +16,7 @@ dotnet new install kznagamori.WPFBlazorMinApp.1.0.0.nupkg
 ```
 dotnet new wpf-blazor.min -n <プロジェクト名>
 ```
-**例:** `dotnet new wpf-blazor -n MyWPFBlazorMin`
+**例:** `dotnet new wpf-blazor.min -n MyWPFBlazorMin`
 
 ### テンプレートのアンインストール
 ```
