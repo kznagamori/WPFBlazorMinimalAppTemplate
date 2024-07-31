@@ -3,7 +3,7 @@
 ## 使用法
 
 ### テンプレートの取得
-[WPFBlazorMinApp.nupkg](https://github.com/kznagamori/https://github.com/kznagamori/WPFBlazorMinimalAppTemplate/releases/download/v1.0.0/kznagamori.WPFBlazorMinApp.1.0.0.nupkg)
+[WPFBlazorMinApp.nupkg](https://github.com/kznagamori/WPFBlazorMinimalAppTemplate/releases/download/v1.0.0/kznagamori.WPFBlazorMinApp.1.0.0.nupkg)
 をダウンロードします。
 
 ### テンプレートのインストール
